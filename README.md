@@ -1,11 +1,10 @@
-# Databricks Book
+# PySpark & Databricks
 
-Welcome to the Databricks book! This guide provides a comprehensive introduction to Databricks, its architecture, components, and evolution.
+Welcome! This guide provides a comprehensive introduction to PySpark and Databricks. 
 
-The content is structured based on the initial `Databricks.md` document.
+**PySpark** is the Python API for Apache Spark, an open-source, distributed computing system optimized for fast, large-scale data processing and analytics. It allows developers to write scalable data pipelines and perform machine learning on massive datasets using Python.
 
-## Study Materials
-- [Databricks & PySpark Question Bank (50 Questions)](Question_Bank.md)
+**Databricks** is a unified, cloud-based analytics platform built on top of Apache Spark. It introduced the "Lakehouse" architecture—combining the flexibility of data lakes with the reliability of data warehouses—and provides a collaborative workspace for data engineers, data scientists, and analysts.
 
 ## Table of Contents
 
@@ -28,5 +27,8 @@ The content is structured based on the initial `Databricks.md` document.
 - [Chapter 11: Security & Governance](chapters/module2/11_Security_and_Governance.md)
 - [Chapter 12: Hands-On Projects](chapters/module2/12_Hands_On_Projects.md)
 - [Chapter 13: Databricks Mosaic AI](chapters/module2/13_Databricks_Mosaic_AI.md)
+
+## Study Materials
+- [Databricks & PySpark Question Bank (50 Questions)](Question_Bank.md)
 
 # bigdata
