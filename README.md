@@ -18,6 +18,7 @@ Welcome! This guide provides a comprehensive introduction to PySpark and Databri
 
 ### Module 2 - Databricks
 - [Chapter 6: Introduction to Databricks](chapters/module2/06_Introduction_to_Databricks.md)
+- [Chapter 6A: Evolution of Databricks](chapters/module2/06A_Evolution_of_Databricks.md)
 - [Chapter 7: Core Concepts](chapters/module2/07_Core_Concepts.md)
 - [Chapter 8: Data Engineering](chapters/module2/08_Data_Engineering.md)
 - [Chapter 9: Machine Learning](chapters/module2/09_Machine_Learning.md)
